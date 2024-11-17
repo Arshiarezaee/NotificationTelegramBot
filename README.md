@@ -14,6 +14,14 @@ A **Telegram Bot** for managing user communications, broadcasting messages, and 
 - **Admin Notifications**: Sends all user messages to the admin with their Telegram ID and username.
 
 ---
+## 🧑‍💻 Usage Of Robot
+
+1. **Set Bot Token**:
+   - Go to @BotFather in telegram and register your robot . you will recive a token for your bot . set it as BOT_TOKEN in the code
+   
+2. **Admin Id**:
+   - To find your Id to set your self as an admin , use @userinfobot in telegram to find your id and set it as #Admin_Id in code
+---
 
 ## 🛠️ How It Works
 
