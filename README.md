@@ -60,5 +60,5 @@ Follow these steps to set up and run the bot:
 
 1. **Clone the Repository**:
    ```bash
-   git clone https://github.com/your-username/telegram-notification-bot.git
+   git clone https://github.com/Arshiarezaee/telegram-notification-bot.git
    cd telegram-notification-bot
